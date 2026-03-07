@@ -92,11 +92,6 @@ const reldyal = {
 
 <br/>
 
-[![Varel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reldyal&show_icons=true&theme=transparent&hide_border=true&title_color=7C8CF8&icon_color=7C8CF8&text_color=ffffff)](https://github.com/reldyal)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reldyal&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=7C8CF8&text_color=ffffff)](https://github.com/reldyal)
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=reldyal&theme=transparent&hide_border=true&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8)](https://github.com/reldyal)
 
 </div>

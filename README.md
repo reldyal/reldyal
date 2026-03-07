@@ -92,12 +92,12 @@ const reldyal = {
 
 <br/>
 
-[![Varel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flamesidgs&show_icons=true&theme=transparent&hide_border=true&title_color=7C8CF8&icon_color=7C8CF8&text_color=ffffff)](https://github.com/flamesidgs)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamesidgs&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=7C8CF8&text_color=ffffff)](https://github.com/flamesidgs)
+[![Varel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reldyal&show_icons=true&theme=transparent&hide_border=true&title_color=7C8CF8&icon_color=7C8CF8&text_color=ffffff)](https://github.com/reldyal)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reldyal&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=7C8CF8&text_color=ffffff)](https://github.com/reldyal)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=flamesidgs&theme=transparent&hide_border=true&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8)](https://github.com/flamesidgs)
+[![GitHub Streak](https://streak-stats.demolab.com?user=reldyal&theme=transparent&hide_border=true&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8)](https://github.com/reldyal)
 
 </div>
 
@@ -107,7 +107,7 @@ const reldyal = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flamesidgs&theme=react-dark&hide_border=true&color=7C8CF8&line=7C8CF8&point=ffffff)](https://github.com/flamesidgs)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reldyal&theme=react-dark&hide_border=true&color=7C8CF8&line=7C8CF8&point=ffffff)](https://github.com/reldyal)
 
 </div>
 

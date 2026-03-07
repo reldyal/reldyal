@@ -1,104 +1,101 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Varel%20Endy%20Al%20Faiz&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=reldyal%20%E2%80%A2%20Junior%20Developer&descAlignY=58&descSize=18&descColor=a0a0b0" />
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:1a1a2e,100:0a0a0a&height=220&section=header&text=Varel%20Endy%20Al%20Faiz&fontSize=52&fontColor=f0f0f0&fontAlignY=40&desc=reldyal%20%E2%80%94%20junior%20developer%20%2F%20builder&descSize=16&descColor=888888&descAlignY=60&animation=fadeIn" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C8CF8&center=true&vCenter=true&width=600&lines=Web+%7C+Bot+%7C+Game+Developer;Laravel+%26+Next.js+Enthusiast;SA-MP+%2F+Open.MP+Scripter;Past+me+searched+for+this.+Present+me+builds+it." alt="Typing SVG" />
+<br/><br/>
+
+<!-- Badges -->
+<a href="https://github.com/reldyal">
+  <img src="https://img.shields.io/badge/github-reldyal-0d0d0d?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/782282193934090271">
+  <img src="https://img.shields.io/badge/discord-reldyal-0d0d0d?style=flat-square&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/varel-endy-al-faiz-a0a775333/">
+  <img src="https://img.shields.io/badge/linkedin-varel%20endy-0d0d0d?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/reldyal_">
+  <img src="https://img.shields.io/badge/twitter-reldyal__-0d0d0d?style=flat-square&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/portfolio-coming%20soon-0d0d0d?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
-<br/>
-
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-reldyal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reldyal)
-[![Discord](https://img.shields.io/badge/Discord-reldyal-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/782282193934090271)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varel%20Endy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varel-endy-al-faiz-a0a775333/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```ts
-const reldyal = {
-  name    : "Varel Endy Al Faiz",
-  alias   : "reldyal",
-  level   : "Junior Developer",
-  fields  : ["Web Development", "Bot Development", "Game Scripting"],
-  stacks  : ["Laravel", "Next.js", "React", "Node.js", "Pawn"],
-  building: "Relived RP — SA-MP / Open.MP Roleplay Project",
-  motto   : "Past me searched for this. Present me builds it.",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-E3057A?style=for-the-badge&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-1f1f1f?style=for-the-badge&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Open.MP](https://img.shields.io/badge/Open.MP-222222?style=for-the-badge&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Current Projects
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🌐 **Haraval Wedding & Organizer** | Wedding website | Next.js, Tailwind | Still Update! |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/782282193934090271?bg=1f1f1f&borderRadius=5&idleMessage=)](https://discord.com/users/782282193934090271)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reldyal&theme=transparent&hide_border=true&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8)](https://github.com/reldyal)
+**— Languages —**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reldyal&theme=react-dark&hide_border=true&color=7C8CF8&line=7C8CF8&point=ffffff)](https://github.com/reldyal)
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=00ADD8" />
+<img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/C%23-1a1a1a?style=flat-square&logo=csharp&logoColor=239120" />
+<img src="https://img.shields.io/badge/Pascal-1a1a1a?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Pawn-1a1a1a?style=flat-square&logoColor=white" />
+
+<br/>
+
+**— Frameworks & Libraries —**
+
+<img src="https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Laravel-1a1a1a?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/TailwindCSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Open.MP-1a1a1a?style=flat-square&logoColor=white" />
+
+<br/>
+
+**— Databases & Tools —**
+
+<img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=FF6C37" />
+
+</div>
+
+---
+
+</div>
+
+### `$ projects --current`
+
+<div align="center">
+<br/>
+
+| &nbsp; | Project | Description | Stack | Status |
+|---|---|---|---|---|
+| 🎮 | **Relived RP** | Roleplay server on SA-MP / Open.MP | Pawn · MySQL | `in development` |
+
+</div>
+
+---
+
+### `$ stats --all`
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/782282193934090271?bg=0d0d0d&borderRadius=8&idleMessage=probably+coding+somewhere)](https://discord.com/users/782282193934090271)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=reldyal&theme=transparent&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=666666&stroke=333333)](https://github.com/reldyal)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reldyal&theme=react-dark&bg_color=0d0d0d&color=aaaaaa&line=555555&point=ffffff&hide_border=true)](https://github.com/reldyal)
 
 </div>
 
@@ -106,8 +103,8 @@ const reldyal = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
 
-<sub>© 2026 Varel Endy Al Faiz &nbsp;·&nbsp; Past me searched for this. Present me builds it. ☕</sub>
+<sub><sup>© 2026 Varel Endy Al Faiz &nbsp;·&nbsp; <i>Past me searched for this. Present me builds it.</i> ☕</sup></sub>
 
 </div>

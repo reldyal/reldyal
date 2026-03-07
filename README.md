@@ -40,35 +40,32 @@ const reldyal = {
 
 <div align="center">
 
-**Frontend**
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-E3057A?style=for-the-badge&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-1f1f1f?style=for-the-badge&logoColor=white)
+
+**Frameworks & Libraries**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend**
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Game Development**
-
 ![SA-MP](https://img.shields.io/badge/SA--MP-ff6b35?style=for-the-badge&logoColor=white)
 ![Open.MP](https://img.shields.io/badge/Open.MP-222222?style=for-the-badge&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn_Script-1f1f1f?style=for-the-badge&logoColor=white)
 
-**DevOps & Tools**
+**Databases & Tools**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -98,11 +95,6 @@ const reldyal = {
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/782282193934090271?bg=1f1f1f&borderRadius=5&idleMessage=)](https://discord.com/users/782282193934090271)
-
-<br/>
-
-[![Varel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reldyal&show_icons=true&theme=transparent&hide_border=true&title_color=7C8CF8&icon_color=7C8CF8&text_color=ffffff&count_private=true)](https://github.com/reldyal)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reldyal&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=7C8CF8&text_color=ffffff)](https://github.com/reldyal)
 
 <br/>
 

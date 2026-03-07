@@ -58,7 +58,6 @@ const reldyal = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SA-MP](https://img.shields.io/badge/SA--MP-ff6b35?style=for-the-badge&logoColor=white)
 ![Open.MP](https://img.shields.io/badge/Open.MP-222222?style=for-the-badge&logoColor=white)
 
 **Databases & Tools**
@@ -83,8 +82,7 @@ const reldyal = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🎮 **Relived RP** | Roleplay server built on SA-MP / Open.MP framework | Pawn, MySQL | 🔨 In Development |
-| 🌐 **Portfolio** | Personal portfolio website | Next.js, Tailwind | 🔜 Coming Soon |
+| 🌐 **Haraval Wedding & Organizer** | Wedding website | Next.js, Tailwind | Still Update! |
 
 </div>
 

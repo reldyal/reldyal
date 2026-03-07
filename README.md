@@ -100,14 +100,6 @@ const reldyal = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=reldyal&theme=transparent&hide_border=true&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8)](https://github.com/reldyal)
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reldyal&theme=react-dark&hide_border=true&color=7C8CF8&line=7C8CF8&point=ffffff)](https://github.com/reldyal)
 
 </div>

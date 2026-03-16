@@ -6,8 +6,8 @@
 <br/><br/>
 
 <!-- Badges -->
-<a href="https://github.com/reldyal">
-  <img src="https://img.shields.io/badge/github-reldyal-0d0d0d?style=flat-square&logo=github&logoColor=white" />
+<a href="https://instagram.com/reldyal_">
+  <img src="https://img.shields.io/badge/instagram-reldyal_-0d0d0d?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://discord.com/users/782282193934090271">

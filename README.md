@@ -79,7 +79,7 @@
 
 | &nbsp; | Project | Description | Stack | Status |
 |---|---|---|---|---|
-| 🎮 | **Relived RP** | Roleplay server on SA-MP / Open.MP | Pawn · MySQL | `in development` |
+<!-- | 🎮 | **Relived RP** | Roleplay server on SA-MP / Open.MP | Pawn · MySQL | `in development` | -->
 
 </div>
 
